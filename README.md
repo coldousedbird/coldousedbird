@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dmitry @coldousedbird
 - I’m interested in programming interesting stuff
-- I alreaqy know basics of C++, C#, python, QT, SQL. 
+- I know basics of C++, C#, python, QT, SQL. 
 - I’m currently learning SQL data bases
 - I’m looking to collaborate on ... nothing right now
 - 📫 How to reach me ...
