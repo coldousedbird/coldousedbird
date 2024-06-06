@@ -1,11 +1,23 @@
-- 👋 Hi, I’m Dmitry @coldousedbird
-- I’m interested in programming interesting stuff
-- I know basics of C++, C#, python, QT, SQL. 
-- I’m currently learning python for CV/ML purposes; parallel and distributive computations in different platforms 
-- I’m looking to collaborate on ... nothing right now
-- 📫 How to reach me ...
+<pre>
+<b>coldousedbird@Dmitry</b>
+--------------------
+<b>OS:</b>     🖥️ Windows 11, 💻 Fedora Linux
+<b>Uptime:</b> 🧑 21 years
+<b>Host:</b>   👨‍🎓 Volgograd State Technical University
+<b>Kernel:</b> 💼 Systems of Automatic Engeneering and Search Constructing
+<b>IDE:</b>    📝 VS Code, PyCharm
 
-<!---
-coldousedbird/coldousedbird is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<b>Languages.Programming:</b> ⌨️ Python, C++, C
+<b>Languages.Query:</b>       $> SQL, Bash
+<b>Languages.Markup:</b>      👨‍💻 Markdown, HTML, JSON
+<b>Languages.Real:</b>        👅 Russian, English
+  
+<b>Tools.Common:</b>     🔧 Git, terminal, VIM
+<b>Tools.Database:</b>   💾 SQLite, MySQL, PostGreSQL, MongoDB
+<b>Tools.Frameworks:</b> 📦 QT, PyQT
+
+<b>Hobbies:</b> 🎵 Interesting Music, 💙 Comfort Anime, 🎮 Good Games, 🤓 Interesting Code
+
+<b>Contact.Telegram:</b> ✈️ <a href="https://t.me/@coldousedbird">@coldousedbird</a>
+<b>Contact.Email:</b>    ✉️ <a href="">???</a>
+</pre>
