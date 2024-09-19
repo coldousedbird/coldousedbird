@@ -16,8 +16,8 @@
 <b>Tools.Database:</b>   💾 SQLite, MySQL, PostGreSQL, MongoDB
 <b>Tools.Frameworks:</b> 📦 QT, PyQT
 
-<b>Hobbies:</b> 🎵 Interesting Music, 💙 Comfort Anime, 🎮 Good Games, 🤓 Interesting Code
+<b>Hobbies:</b> 🎵 Interesting Music, 💙 Comfort Anime, 🎮 Good Games, 🤓 Smart Code
 
 <b>Contact.Telegram:</b> ✈️ <a href="https://t.me/@coldousedbird">@coldousedbird</a>
-<b>Contact.Email:</b>    ✉️ <a href="">???</a>
+<b>Contact.Email:</b>    ✉️ <a href="">coldousedbird@gmail.com</a>
 </pre>
