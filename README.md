@@ -2,7 +2,7 @@
 <b>coldousedbird@Dmitry</b>
 --------------------
 <b>OS:</b>     🖥️ Windows 11, 💻 Fedora Linux
-<b>Uptime:</b> 🧑 21 years
+<b>Uptime:</b> 🧑 22 years
 <b>Host:</b>   👨‍🎓 Volgograd State Technical University
 <b>Kernel:</b> 💼 Systems of Automatic Engeneering and Search Constructing
 <b>IDE:</b>    📝 VS Code, PyCharm
